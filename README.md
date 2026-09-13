@@ -32,7 +32,7 @@
    ##### a fifth level heading
    ###### a sixth level heading
    # bold
-   ** this is bold text**
+   **this is bold text**
    # italics
    *this text is italicized*
    _this text is italicized_
@@ -42,4 +42,8 @@
    this is H<sub>2</sub>O
    # superscript
    this is x<sup>2</sup> + y<sup>3</sup>
+   # all bold and italics
+   ***all text is important***
+   # bold and nested italics
+   **this text is _extremely_ important**
    
