@@ -23,7 +23,7 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/YourUsername/markdown-students.git
-
+---
    # headings
    # a first level heading
    ## a second level heading
