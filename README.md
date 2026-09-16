@@ -60,4 +60,12 @@
    - [x] Jaiyeola -- Sumbit Turtle Graphic Assignment
    - [ ] Aderoju -- Complete Dictionary Exercise
    - [ ] Peju -- Review Mathematics Homework
-   - [ ] Teju -- Complete Essay Homework   
+   - [ ] Teju -- Complete Essay Homework
+
+   # Footnotes 
+   [^2]
+   Our top scorer this team is Jaiyeola[^1],
+   Closely followed by Aderoju[^2].
+
+   [^1]:Teju scored 95% on the final Turtle Graphic Project.
+   [^2]:Peju scored 95% too and won "most improved coder."
