@@ -47,3 +47,8 @@
    # bold and nested italics
    **this text is _extremely_ important**
    
+   | Students | Assignment | Scores | Badge |
+   | Jaiyeola | Python | 95 | Gold |
+   | Teju | Java | 94 | Gold |
+   | Peju | Web | 95 | Gold |
+   | Aderoju | Javascript | 98 | Gold |
