@@ -63,7 +63,7 @@
    - [ ] Teju -- Complete Essay Homework
 
    # Footnotes 
-   [^2]
+   
    Our top scorer this team is Jaiyeola[^1],
    Closely followed by Aderoju[^2].
 
