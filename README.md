@@ -46,10 +46,18 @@
    ***all text is important***
    # bold and nested italics
    **this text is _extremely_ important**
-   
+
+   # Tables
    | Students | Assignment | Scores | Badge |
    | --- | --- | --- | --- |
    | Jaiyeola | Python | 95 | Gold |
    | Teju | Java | 94 | Gold |
    | Peju | Web | 95 | Gold |
    | Aderoju | Javascript | 98 | Gold |
+
+
+   # Task List And Line Breaks
+   - [x] Jaiyeola -- Sumbit Turtle Graphic Assignment
+   - [ ] Aderoju -- Complete Dictionary Exercise
+   - [ ] Peju -- Review Mathematics Homework
+   - [ ] Teju -- Complete Essay Homework   
