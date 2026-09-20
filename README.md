@@ -86,7 +86,7 @@
    > [!NOTE]
    > useful information that users should know, even when skimming content.
 
-   > [!TIP].
+   > [!TIP]
    > helpful advice for doing things better or more easily.
    
    > [!IMPORTANT]
