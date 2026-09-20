@@ -70,6 +70,8 @@
    [^1]:Teju scored 95% on the final Turtle Graphic Project.
    [^2]:Peju scored 95% too and won "most improved coder."
 
+   
+
    # Collapsed (Expandable) Section 
    <details>
    <summary>click to read Jaiye's writeup</summary>
