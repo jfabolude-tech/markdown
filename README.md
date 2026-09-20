@@ -78,3 +78,19 @@
    With error handling for division by zero.
 
    </details>
+   # alert
+   > [!NOTE]
+   > useful information that users should know, even when skimming content.
+
+   > [!TIP].
+   > helpful advice for doing things better or more easily.
+   >
+   > [!IMPORTANT]
+   > KEY IMFORMATION USERS NEED TO KNOW TO ACHIEVE THEIR GOAL.
+   > 
+   > [!WARNING]
+   > URGENT INFO THAT NEEDS IMMEDIATE USER ATTENTI0N TO AVOID PROBLEMS.
+   >
+   > [!CAUTION]
+   > advices about risks or negative outcomes of certain actions.      
+   
